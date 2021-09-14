@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.15.4",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.0",
     "gatsby": "^3.11.1",
     "gatsby-plugin-feed": "^3.11.0",
     "gatsby-plugin-gatsby-cloud": "^2.11.0",
